@@ -34,6 +34,10 @@ div#main-menu > ul li {
 	list-style: none;
 }
 
+div#main-menu > ul > li > div > div > ul li {
+    margin-top: 3px;
+}
+
 div#main-menu > ul > li {
 	height: 30px;
 }
